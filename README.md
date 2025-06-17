@@ -34,11 +34,8 @@ Design:      Storybook, Figma, Accessible UI Patterns
 
 ### 🚀 Projects
 
-- ✏️ **Military-to-Civilian Translator** – NLP tool using T5 + Transformers.js
-- 📊 **Vets Who Code Intelligence** – LLM + data pipeline for alumni success signals
-- 🎨 **Mission UI** – Accessible, animated React design system
-- 🧠 **Knowledge Base** – Training with DeepSpeed for curriculum intelligence
-- 🧰 **jerome.codes** – Portfolio, blogs, labs, design, and code all in one place
+- ✏️ **Invoice app** – CRUD invoice app based on Next.js, Typescript and MaterialUI.
+- 📊 **Kanban Board** – CRUD app that allows users to manage their tasks
 
 ---
 
