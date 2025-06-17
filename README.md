@@ -35,7 +35,7 @@ Design:      Storybook, Figma, Accessible UI Patterns
 ### 🚀 Projects
 
 - ✏️ **Invoice app** – CRUD invoice app based on Next.js, Typescript and MaterialUI.
-- 📊 **Kanban Board** – CRUD app that allows users to manage their tasks
+- 📊 **Kanban Board** – CRUD app that allows users to manage their tasks.
 
 ---
 
